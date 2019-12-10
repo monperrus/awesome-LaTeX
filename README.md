@@ -121,6 +121,7 @@ Online editors that allow you to edit documents collaboratively.
 - [Overleaf](https://www.overleaf.com) - Online editor, also with a WYSIWYM editor and git support.
 - [Papeeria](https://papeeria.com) - Online editor with built-in git support.
 - [JaxEdit](https://zohooo.github.io/jaxedit/) - Online LaTeX editor with Live Preview and nice presentation mode.
+- [CoCalc](https://cocalc.com/doc/latex-editor.html) Online LaTeX editor with real-time collaboration
 
 ## Bibliography tools
 
